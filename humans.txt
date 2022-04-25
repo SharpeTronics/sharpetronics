@@ -56,7 +56,7 @@ yaml.org
 Docker - Container virtualization
 docker.com
 
-Git, Gitea, Drone & Gitea Pages - Code collaboration, continuous delivery, version management, DevOps & static hosting
+Git, Gitea, Drone, GitHub (Mirror) & Gitea Pages - Code collaboration, continuous delivery, version management, DevOps & static hosting
 github.com
 
 Font Awesome - Premium Web icons
